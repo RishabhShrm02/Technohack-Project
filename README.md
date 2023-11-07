@@ -1,1 +1,2 @@
-# Technohack-Project
+# Technohack-Project-Task1
+Number Guessing game  
